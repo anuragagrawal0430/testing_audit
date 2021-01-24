@@ -14,10 +14,10 @@
     "express": "~3.4.4"
   },
   "devDependencies": {
-    "supertest": "~0.8.1",
-    "mocha": "~1.11.0",
+    "mocha": "^8.2.1",
+    "mocha-bamboo-reporter": "*",
     "should": "~1.2.2",
-    "mocha-bamboo-reporter": "*"
+    "supertest": "~0.8.1"
   },
   "engine": {
     "node": ">=0.10"
